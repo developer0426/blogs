@@ -20,7 +20,6 @@ export default function RootLayout({ children }) {
       <meta name="google-site-verification" content="BjQi6M44-kOEJWK4NSZujRa1e5B8xBYm7KrFY2wj_mU" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
-
       </head>
       <body>
         <Header></Header>
